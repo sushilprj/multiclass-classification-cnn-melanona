@@ -37,6 +37,7 @@ The data set contains the following diseases:
 
 
 ## Technologies Used
+- Google Colab
 - Jupyter notebook
 - python
 - tensorflow
